@@ -1,4 +1,4 @@
-#🦷 Dental Clinic Landing Page
+# Dental Clinic Landing Page
 
 A modern and responsive dental clinic website built using React. This project is designed to showcase dental services, doctors, and clinic details while providing a clean user experience with strong call-to-action elements.
 
